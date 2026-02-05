@@ -138,17 +138,17 @@
   <thead>
     <tr>
       <th>
-        <img src="https://github-readme-stats.vercel.app/api?username=Ananthan-didnot&show_icons=true&theme=react" alt="Ananthan-didnot's GitHub stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=ananthan-007&show_icons=true&theme=react" alt="Ananthan-didnot's GitHub stats">
       </th>
       <th>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ananthan-didnot&theme=react" alt="Ananthan-didnot GitHub Streak">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananthan-007&theme=react" alt="Ananthan-didnot GitHub Streak">
       </th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananthan-didnot&langs_count=8&theme=react&layout=compact" alt="Top Langs">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananthan-007&langs_count=8&theme=react&layout=compact" alt="Top Langs">
       </td>
     </tr>
   </tbody>
@@ -160,7 +160,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ananthan-didnot&theme=radical&margin-w=10&margin-h=10&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ananthan-007&theme=radical&margin-w=10&margin-h=10&no-bg=true" />
 </p>
 
 ---
@@ -168,7 +168,7 @@
 ### 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ananthan-didnot&theme=react-dark&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ananthan-007&theme=react-dark&area=true&hide_border=true" />
 </p>
 
 ---
