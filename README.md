@@ -82,38 +82,10 @@
 
 ### 📊 GitHub Stats
 
-<table>
-<tr>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ananthan-007&show_icons=true&theme=react" alt="Ananthakrishnan GitHub Stats"/>
-
-</td>
-<td>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananthan-007&theme=react" alt="Ananthakrishnan GitHub Streak"/>
 
-</td>
-</tr>
-
-<tr>
-<td colspan="2" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananthan-007&langs_count=8&theme=react&layout=compact" alt="Top Languages"/>
-
-</td>
-</tr>
-</table>
-
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ananthan-007&theme=radical&margin-w=10&margin-h=10&no-bg=true" />
-</p>
-
----
 
 ### 🔥 Contribution Graph
 
@@ -123,14 +95,6 @@
 
 ---
 
-### ⚙️ Project Spotlight: `CodeFusion`
-
-> 💻 A real-time collaborative code editor built for developers who love to code together.  
-> Live edits. Multiple cursors. No delay. Just flow.
-
-🔗 **GitHub:** https://github.com/ananthan-007/codeFusion
-
----
 
 ### 🧃 Fun Fact
 
